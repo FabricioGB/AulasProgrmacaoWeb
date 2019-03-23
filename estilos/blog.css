@@ -16,6 +16,15 @@ body{
     font-weight: lighter;
 }
 
+section h3{
+    font-size: 1.7em;
+}
+
+header li a{
+    color: #99a0b0;
+    font-weight: lighter;
+}
+
 .escuras{
     background-color:#2b313e;
     color:#fcfcfd;
@@ -35,4 +44,8 @@ body{
     color:#ffffff;
     font-size: 1.3em;
       
+}
+
+#sobre img{
+    width: 200px;
 }
