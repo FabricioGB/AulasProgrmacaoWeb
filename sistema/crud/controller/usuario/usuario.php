@@ -32,7 +32,7 @@
             <button type="submit" class="btn btn-info" name="atualizar">Atualizar</button>
 <?php else: ?>
              <button type="submit" class="btn btn-primary" name="salvar">Salvar</button>
-        <?php endif: ?>
+<?php endif; ?>
                </div>
            </form>
        </div>
